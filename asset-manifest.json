@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/static/css/main.7fbd70e9.css",
-    "main.js": "/static/js/main.611f3045.js",
-    "static/js/453.e9d259d0.chunk.js": "/static/js/453.e9d259d0.chunk.js",
-    "index.html": "/index.html",
-    "main.7fbd70e9.css.map": "/static/css/main.7fbd70e9.css.map",
-    "main.611f3045.js.map": "/static/js/main.611f3045.js.map",
-    "453.e9d259d0.chunk.js.map": "/static/js/453.e9d259d0.chunk.js.map"
+    "main.css": "/putts-for-birdies/static/css/main.7fbd70e9.css",
+    "main.js": "/putts-for-birdies/static/js/main.e01bc97b.js",
+    "static/js/453.e9d259d0.chunk.js": "/putts-for-birdies/static/js/453.e9d259d0.chunk.js",
+    "index.html": "/putts-for-birdies/index.html",
+    "main.7fbd70e9.css.map": "/putts-for-birdies/static/css/main.7fbd70e9.css.map",
+    "main.e01bc97b.js.map": "/putts-for-birdies/static/js/main.e01bc97b.js.map",
+    "453.e9d259d0.chunk.js.map": "/putts-for-birdies/static/js/453.e9d259d0.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.7fbd70e9.css",
-    "static/js/main.611f3045.js"
+    "static/js/main.e01bc97b.js"
   ]
 }
