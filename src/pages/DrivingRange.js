@@ -1,5 +1,6 @@
 import { Container, Row, Col, Image } from "react-bootstrap";
 import "./DrivingRange.css"
+//comment
 function DrivingRange() {
     return (
         <Container fluid className="range-container mt-5">
@@ -7,6 +8,7 @@ function DrivingRange() {
                 <Col md={6} className=" order-1 order-md-2">
                     <Image src={process.env.PUBLIC_URL + "/images/Driving-Range.jpg"} className="Image-range" />
                 </Col>
+
                 <Col md={6} className="Information d-flex justify-content-center  order-2 order-ms-1">
                     <div className="range-info">
                         <Container className="text-header"><h1>Driving Range</h1></Container>
