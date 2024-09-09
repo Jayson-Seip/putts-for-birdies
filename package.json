@@ -1,6 +1,6 @@
 {
-  "homepage": "https://Jayson-Seip.github.io/putts-for-birdies-final/",
-  "name": "putts-for-birdies-final",
+  "homepage": "https://github.com/Jayson-Seip/putts-for-birdies",
+  "name": "putts-for-birdies",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
@@ -14,6 +14,8 @@
     "express": "^4.19.2",
     "firebase": "^10.12.3",
     "i18next": "^23.12.1",
+    "putts-for-birdies": "file:",
+    "putts-for-birdies-final": "file:",
     "react": "^18.3.1",
     "react-bootstrap": "^2.10.3",
     "react-datepicker": "^7.3.0",
