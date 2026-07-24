@@ -53,7 +53,7 @@ function Tournament() {
                 <Row className="tournament-heading align-items-center" role="banner">
                     <Col xs="auto">
                         <Button className='back-button' onClick={() => navigate('/')} aria-label="Back to Home Page">
-                            ← Back to Home Page
+                            Back to Home Page
                         </Button>
                     </Col>
                     <Col>
